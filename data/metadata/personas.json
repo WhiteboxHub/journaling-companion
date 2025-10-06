@@ -1,0 +1,47 @@
+[
+  {
+    "user_id": "user_01",
+    "age_group": "25-34",
+    "gender": "female",
+    "occupation": "teacher",
+    "writing_style": "expressive",
+    "personality": "creative",
+    "journaling_frequency": "daily"
+  },
+  {
+    "user_id": "user_02",
+    "age_group": "18-24",
+    "gender": "male",
+    "occupation": "student",
+    "writing_style": "reflective",
+    "personality": "anxious",
+    "journaling_frequency": "weekly"
+  },
+  {
+    "user_id": "user_03",
+    "age_group": "35-44",
+    "gender": "non_binary",
+    "occupation": "engineer",
+    "writing_style": "analytical",
+    "personality": "reserved",
+    "journaling_frequency": "irregular"
+  },
+  {
+    "user_id": "user_04",
+    "age_group": "45-54",
+    "gender": "female",
+    "occupation": "artist",
+    "writing_style": "concise",
+    "personality": "optimistic",
+    "journaling_frequency": "daily"
+  },
+  {
+    "user_id": "user_05",
+    "age_group": "55+",
+    "gender": "male",
+    "occupation": "retired",
+    "writing_style": "reflective",
+    "personality": "creative",
+    "journaling_frequency": "weekly"
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "primary": ["joy", "sadness", "anger", "fear", "surprise", "disgust", "neutral"],
+  "secondary": ["grateful", "guilty", "anxious", "hopeful", "lonely", "frustrated", "reflective"]
+}

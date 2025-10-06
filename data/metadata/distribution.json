@@ -1,0 +1,40 @@
+{
+  "age_group": {
+    "18-24": 0.2,
+    "25-34": 0.3,
+    "35-44": 0.2,
+    "45-54": 0.2,
+    "55+": 0.1
+  },
+  "gender": {
+    "male": 0.45,
+    "female": 0.45,
+    "non_binary": 0.05,
+    "prefer_not_to_say": 0.05
+  },
+  "occupation": {
+    "student": 0.2,
+    "engineer": 0.2,
+    "teacher": 0.15,
+    "artist": 0.15,
+    "therapist": 0.1,
+    "retired": 0.2
+  },
+  "writing_style": {
+    "reflective": 0.3,
+    "expressive": 0.3,
+    "concise": 0.2,
+    "analytical": 0.2
+  },
+  "personality": {
+    "optimistic": 0.25,
+    "anxious": 0.25,
+    "creative": 0.25,
+    "reserved": 0.25
+  },
+  "journaling_frequency": {
+    "daily": 0.4,
+    "weekly": 0.4,
+    "irregular": 0.2
+  }
+}
