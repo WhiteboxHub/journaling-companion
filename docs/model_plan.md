@@ -27,7 +27,10 @@ Build a private, empathetic, intelligent journaling assistant that:
 1. User journals via UI → stored in MongoDB
 2. API retrieves recent entries → generates new prompt
 3. User writes → classifier tags emotion → reframing generated
-4. Weekly background task clusters and summarizes data
+4. Weekly background task clusters and summarizes data.  
+
+
+
 
 ### Safety Guardrails
 - Template structure for reframes

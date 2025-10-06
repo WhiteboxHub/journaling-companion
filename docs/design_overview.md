@@ -7,7 +7,7 @@ Create an AI-powered journaling assistant that is:
 - **Private**: No sensitive user data is shared externally
 - **Empathetic**: Tone-safe, gentle outputs
 - **Insightful**: Summarizes patterns and emotional trends
-- **Personalized**: Prompt generation adapts to past history
+- **Personalized**: Prompt generation adapts to past history. 
 
 ---
 
