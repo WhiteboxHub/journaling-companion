@@ -1,5 +1,7 @@
 ## Design Overview – Journaling Companion
 
+![Architecture](./architecture.png)
+
 ### Objective
 Create an AI-powered journaling assistant that is:
 - **Private**: No sensitive user data is shared externally
