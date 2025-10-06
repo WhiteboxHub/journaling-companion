@@ -12,3 +12,5 @@ openai
 rouge-score
 bert-score
 detoxify
+pymongo
+python-dotenv
